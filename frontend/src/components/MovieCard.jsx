@@ -77,13 +77,13 @@ function MovieCard({ movie }) {
     >
       <div className="movie-media">
         <img
-          src={`http://localhost:3000${movie?.logo}`}
+          src={`http://localhost:5000${movie?.logo}`}
           alt={movie?.name || " Movie Not Found "}
           className="movie-poster"
         />
         <video
           ref={videoRef}
-          src={`http://localhost:3000${movie?.streamURL?.preview || ""}`}
+          src={`http://localhost:5000${movie?.streamURL?.preview || ""}`}
           className="movie-preview"
           muted
           loop
