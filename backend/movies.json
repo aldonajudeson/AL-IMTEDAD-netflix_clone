@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Madame Web 2",
+    "logo": "/assets/posters/poster1.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+    {
+    "id": 2,
+    "name": "Deadpool & Wolverine",
+    "logo": "/assets/posters/poster2.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Superman",
+    "logo": "/assets/posters/poster3.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Venom: The Last Dance",
+    "logo": "/assets/posters/poster4.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 5,
+    "name": "A Man Called Otto",
+    "logo": "/assets/posters/poster5.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 6,
+    "name": "The Amazing Spiderman 2",
+    "logo": "/assets/posters/poster6.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Barbie",
+    "logo": "/assets/posters/poster7.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Minions",
+    "logo": "/assets/posters/poster8.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Lucy",
+    "logo": "/assets/posters/poster9.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=D0UnqGm_miA",
+      "preview": "/assets/videos/video.mp4"
+    }
+  }
+
+]
